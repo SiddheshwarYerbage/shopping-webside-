@@ -67,6 +67,6 @@ frontend/
 
 Siddheshwar Sanjaykumar Yerbage
 Full Stack Developer (MERN Stack)
-📧 Email: your-email@example.com
-🔗 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/siddheshwar-yerbage-77551325b/)
+📧 Email: sidhuyerbage@gmail.com
+🔗 LinkedIn: (https://www.linkedin.com/in/siddheshwar-yerbage-77551325b/)
 
